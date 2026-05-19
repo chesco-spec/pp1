@@ -1,5 +1,8 @@
 h1{
     border: 2px solid #00f;
+    top: 0;
+    background-color: white;
+    position:sticky;
 }
 
 h2{
@@ -29,4 +32,5 @@ div {
     padding: 10px;
     padding-right: 10px ;
     padding-left: 10px ;
+    
 }
